@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T11:42:30.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="neaGh_0CGOcbYKzQ8X4v" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:00:11.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="9Nmjv441EpLqZrlw_n1e" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -219,8 +219,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-35" value="&lt;div&gt;er model &lt;br&gt;&lt;/div&gt;&lt;div&gt;atributi ovdje nisu nužni &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="205" width="130" height="30" as="geometry" />
+        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-35" value="&lt;div&gt;er model &lt;br&gt;&lt;/div&gt;&lt;div&gt;atributi ovdje nisu nužni, ali mogu biti i ovdje su navedeni ispod naziva entiteta&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="205" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-36" value="&lt;div&gt;Predmet (&lt;b&gt;šifra_predmeta&lt;/b&gt;, naziv, )&lt;/div&gt;&lt;div&gt;Zavod (&lt;b&gt;šifra zavoda&lt;/b&gt;, naziv zavoda, )&lt;/div&gt;&lt;div&gt;zaposlenik (&lt;b&gt;šifra_zaposlenika&lt;/b&gt;. ime, prezime, &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="420" height="110" as="geometry" />
