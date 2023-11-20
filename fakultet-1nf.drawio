@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T12:25:18.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="0fXS1u2kvDPhEjO-Iw8d" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:27:36.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="r4S_sMqnY0XgZvrNo2Xz" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -109,9 +109,6 @@
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-36" value="&lt;div&gt;Predmet (&lt;b&gt;šifra_predmeta&lt;/b&gt;, naziv, )&lt;/div&gt;&lt;div&gt;Zavod (&lt;b&gt;šifra zavoda&lt;/b&gt;, naziv zavoda, )&lt;/div&gt;&lt;div&gt;zaposlenik (&lt;b&gt;šifra_zaposlenika&lt;/b&gt;. ime, prezime, &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="450" width="420" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-38" value="atributi entiteta s primarnim ključevima " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="480" width="130" height="30" as="geometry" />
