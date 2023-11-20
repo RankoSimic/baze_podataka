@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T10:37:59.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="6bn6KF83zHENL9pVG4mI" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T11:42:30.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="neaGh_0CGOcbYKzQ8X4v" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,44 +191,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-21" value="predmet" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="160" height="120" as="geometry" />
+          <mxGeometry x="55" y="330" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-22" value="naziv predmeta&lt;br&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MWMhoBMyGc0rTg2RT5Ye-21">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-23" value="zavod" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="160" width="160" height="120" as="geometry" />
+          <mxGeometry x="270" y="140" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-24" value="naziv zavoda" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MWMhoBMyGc0rTg2RT5Ye-23">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-25" value="zaposlenik" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="160" height="120" as="geometry" />
+          <mxGeometry x="490" y="340" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-26" value="&lt;div&gt;ime&lt;/div&gt;&lt;div&gt;prezime &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MWMhoBMyGc0rTg2RT5Ye-25">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-28" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.031;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MWMhoBMyGc0rTg2RT5Ye-24" target="MWMhoBMyGc0rTg2RT5Ye-22">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="360" y="520" as="sourcePoint" />
-            <mxPoint x="460" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-29" value="pripada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MWMhoBMyGc0rTg2RT5Ye-28">
-          <mxGeometry x="-0.0444" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-30" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=1.031;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MWMhoBMyGc0rTg2RT5Ye-24" target="MWMhoBMyGc0rTg2RT5Ye-25">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="360" y="520" as="sourcePoint" />
-            <mxPoint x="460" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-31" value="pripada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MWMhoBMyGc0rTg2RT5Ye-30">
-          <mxGeometry x="-0.3438" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-32" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERzeroToMany;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MWMhoBMyGc0rTg2RT5Ye-22" target="MWMhoBMyGc0rTg2RT5Ye-26">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -258,6 +236,34 @@
         </mxCell>
         <mxCell id="MWMhoBMyGc0rTg2RT5Ye-43" value="&lt;div&gt;Napomene:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="820" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-45" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MWMhoBMyGc0rTg2RT5Ye-24" target="MWMhoBMyGc0rTg2RT5Ye-21">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="300" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="260" />
+              <mxPoint x="190" y="250" />
+              <mxPoint x="150" y="270" />
+              <mxPoint x="170" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-46" value="pripada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MWMhoBMyGc0rTg2RT5Ye-45">
+          <mxGeometry x="-0.0894" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-47" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MWMhoBMyGc0rTg2RT5Ye-24" target="MWMhoBMyGc0rTg2RT5Ye-25">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="300" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MWMhoBMyGc0rTg2RT5Ye-48" value="pripada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MWMhoBMyGc0rTg2RT5Ye-47">
+          <mxGeometry x="-0.0439" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
